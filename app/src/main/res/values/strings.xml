@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">SubneteoIP</string>
+    <string name="valor_defecto_3digitos">000</string>
+    <string name="valor_defecto_2digitos">00</string>
+    <string name="TV_netid">Net ID:</string>
+    <string name="TV_broadcast_id">Broadcast ID:</string>
+    <string name="TV_cantidad_de_ip">Cantidad de IP:</string>
+    <string name="TV_cant_ip">cant ip</string>
+    <string name="TV_parte_de_host">Parte de Host:</string>
+    <string name="TV_var_net_id">Net ID:</string>
+    <string name="TV_var_broadcast_id">Broadcast ID:</string>
+    <string name="TV_parte_de_red">Parte de Red:</string>
+    <string name="TV_var_parte_de_red">Parte de Red</string>
+    <string name="TV_var_parte_de_host">Parte de Host:</string>
 </resources>
